@@ -10,7 +10,7 @@
       rgba($primary-color, 0.9),
       rgba($primary-color, 0.5)
     ),
-    url("../img/background.jpg") center top;
+    url("../img/background-1.jpg") center top;
 
   background-size: cover;
 
@@ -24,6 +24,7 @@
     grid-template-columns: 1fr;
     grid-gap: 2rem;
     font-size: 1.5rem;
+    justify-content: center;
   }
 
   .social-icons {

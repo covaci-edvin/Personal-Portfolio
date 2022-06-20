@@ -299,7 +299,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.5)), url("../img/background.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.5)), url("../img/background-1.jpg") center top;
   background-size: cover;
 }
 .contact h2 {
@@ -311,6 +311,7 @@
   grid-template-columns: 1fr;
   grid-gap: 2rem;
   font-size: 1.5rem;
+  justify-content: center;
 }
 .contact .social-icons {
   position: initial;
